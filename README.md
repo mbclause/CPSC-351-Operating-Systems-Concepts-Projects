@@ -1,4 +1,4 @@
-# 🖥️ Operating Systems Projects – CPSC XXX
+# 🖥️ Operating Systems Projects – CPSC 351
 
 This repository contains four programming projects completed for the Operating Systems course at California State University, Fullerton. The projects explore foundational OS concepts including process creation, memory allocation, and thread synchronization using POSIX threads and custom memory management strategies.
 
